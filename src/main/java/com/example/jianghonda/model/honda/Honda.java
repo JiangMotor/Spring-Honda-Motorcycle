@@ -15,7 +15,7 @@ public class Honda{
     private String img_honda;
     private String name_honda;
     private String video_honda;
-    private String category;
+    private String category_name;
 
 
 }
