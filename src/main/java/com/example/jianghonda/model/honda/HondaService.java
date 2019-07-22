@@ -37,7 +37,7 @@ public class HondaService {
            y.setImg_honda(from.getImg_honda());
             y.setName_honda(from.getName_honda());
             y.setVideo_honda(from.getVideo_honda());
-            y.setCategory_name(from.getCategory_name());
+           y.setCategory_name(from.getCategory_name());
    
            honda.save(y);
            return true;
